@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="demo1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demo1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="demo1.jar">
+        <element id="module-output" name="demo1" />
+      </element>
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.9.12" />
+      <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy-agent:1.9.12" />
+    </root>
+  </artifact>
+</component>

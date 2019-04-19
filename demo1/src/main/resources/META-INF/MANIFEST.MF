@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: byte-buddy-1.9.12.jar
+Premain-Class: com.yinhai.agent.myagent
+
